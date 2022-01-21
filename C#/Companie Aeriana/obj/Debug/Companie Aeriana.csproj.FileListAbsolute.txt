@@ -1,0 +1,26 @@
+C:\Users\George\Desktop\Faculta An 3\BD\C#\Companie Aeriana\Companie Aeriana\bin\Debug\Companie Aeriana.exe.config
+C:\Users\George\Desktop\Faculta An 3\BD\C#\Companie Aeriana\Companie Aeriana\bin\Debug\Companie Aeriana.exe
+C:\Users\George\Desktop\Faculta An 3\BD\C#\Companie Aeriana\Companie Aeriana\bin\Debug\Companie Aeriana.pdb
+C:\Users\George\Desktop\Faculta An 3\BD\C#\Companie Aeriana\Companie Aeriana\obj\Debug\Companie Aeriana.csprojAssemblyReference.cache
+C:\Users\George\Desktop\Faculta An 3\BD\C#\Companie Aeriana\Companie Aeriana\obj\Debug\Companie_Aeriana.Login.resources
+C:\Users\George\Desktop\Faculta An 3\BD\C#\Companie Aeriana\Companie Aeriana\obj\Debug\Companie_Aeriana.Properties.Resources.resources
+C:\Users\George\Desktop\Faculta An 3\BD\C#\Companie Aeriana\Companie Aeriana\obj\Debug\Companie Aeriana.csproj.GenerateResource.cache
+C:\Users\George\Desktop\Faculta An 3\BD\C#\Companie Aeriana\Companie Aeriana\obj\Debug\Companie Aeriana.csproj.CoreCompileInputs.cache
+C:\Users\George\Desktop\Faculta An 3\BD\C#\Companie Aeriana\Companie Aeriana\obj\Debug\Companie Aeriana.exe
+C:\Users\George\Desktop\Faculta An 3\BD\C#\Companie Aeriana\Companie Aeriana\obj\Debug\Companie Aeriana.pdb
+C:\Users\George\Desktop\Faculta An 3\BD\Folder nou\Companie Aeriana\Companie Aeriana\bin\Debug\Companie Aeriana.exe.config
+C:\Users\George\Desktop\Faculta An 3\BD\Folder nou\Companie Aeriana\Companie Aeriana\bin\Debug\Companie Aeriana.exe
+C:\Users\George\Desktop\Faculta An 3\BD\Folder nou\Companie Aeriana\Companie Aeriana\bin\Debug\Companie Aeriana.pdb
+C:\Users\George\Desktop\Faculta An 3\BD\Folder nou\Companie Aeriana\Companie Aeriana\obj\Debug\Companie Aeriana.csprojAssemblyReference.cache
+C:\Users\George\Desktop\Faculta An 3\BD\Folder nou\Companie Aeriana\Companie Aeriana\obj\Debug\Companie_Aeriana.Login.resources
+C:\Users\George\Desktop\Faculta An 3\BD\Folder nou\Companie Aeriana\Companie Aeriana\obj\Debug\Companie_Aeriana.Properties.Resources.resources
+C:\Users\George\Desktop\Faculta An 3\BD\Folder nou\Companie Aeriana\Companie Aeriana\obj\Debug\Companie Aeriana.csproj.GenerateResource.cache
+C:\Users\George\Desktop\Faculta An 3\BD\Folder nou\Companie Aeriana\Companie Aeriana\obj\Debug\Companie Aeriana.csproj.CoreCompileInputs.cache
+C:\Users\George\Desktop\Faculta An 3\BD\Folder nou\Companie Aeriana\Companie Aeriana\obj\Debug\Companie Aeriana.exe
+C:\Users\George\Desktop\Faculta An 3\BD\Folder nou\Companie Aeriana\Companie Aeriana\obj\Debug\Companie Aeriana.pdb
+C:\Users\George\Desktop\Faculta An 3\BD\Folder nou\Companie Aeriana\Companie Aeriana\obj\Debug\Companie_Aeriana.Form1.resources
+C:\Users\George\Desktop\Faculta An 3\BD\Folder nou\Companie Aeriana\Companie Aeriana\obj\Debug\Companie_Aeriana.Select.resources
+C:\Users\George\Desktop\Faculta An 3\BD\Folder nou\Companie Aeriana\Companie Aeriana\obj\Debug\Companie_Aeriana.Aeronava.resources
+C:\Users\George\Desktop\Faculta An 3\BD\Folder nou\Companie Aeriana\Companie Aeriana\obj\Debug\Companie_Aeriana.Rezervare.resources
+C:\Users\George\Desktop\Faculta An 3\BD\Folder nou\Companie Aeriana\Companie Aeriana\obj\Debug\Companie_Aeriana.Interogari.resources
+C:\Users\George\Desktop\Faculta An 3\BD\Folder nou\Companie Aeriana\Companie Aeriana\obj\Debug\Companie_Aeriana.Select_Interogare.resources
